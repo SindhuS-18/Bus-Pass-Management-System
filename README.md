@@ -20,7 +20,7 @@ Step 5 : Create a database named Busspas.
 
 Step 6 : Import Busspas.sql (found in this repository).
 
-Step 7 : Run the application at http://localhost/Busspas.
+Step 7 : Run the application at http://localhost/Buspass.
 
 ## Admin Credentials
 Username: admin
